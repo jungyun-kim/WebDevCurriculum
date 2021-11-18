@@ -1,8 +1,18 @@
-# Knowre Web Development Curriculum 2021
+# Knowre 웹개발 커리큘럼 - 4th Edition, 2021
 
 ## 소개
 * Knowre의 신입 웹 개발자 교육을 위한 웹 개발 교육 커리큘럼의 2021년 버전입니다.
 * 이 커리큘럼을 통해 신입 개발자들은 git, HTML, CSS, front-end JavaScript, node.js, MySQL, 그리고 더 나아가 선택된 몇 가지의 최신 웹 기술과 그 작동 원리에 대해 익히게 됩니다.
+
+
+### 광고
+
+* Knowre에서 수시로 신입/경력 엔지니어를 모시고 있습니다. [이 링크](https://www.wanted.co.kr/company/96) 를 참고해 주십시오!
+
+
+## 머리말
+
+* [머리말](./PREFACE.md)
 
 
 ## 목차
